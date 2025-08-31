@@ -1,0 +1,37 @@
+/* Styling for the Sussuros push‑to‑talk buttons in the Player list.
+ * Colours mirror those used by the original Walkie‑Talkie module but use
+ * unique class names to avoid collisions.
+ */
+
+/*
+ * Adjust the size and layout of the Sussuros button.  Foundry v13 uses
+ * flexbox for the player list; using inline-flex here ensures the icon
+ * appears clearly and clickable.  Increase width and height for
+ * visibility and add a cursor pointer for clarity.
+ */
+#players ol .sussuros-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  margin-left: 6px;
+  color: grey;
+  cursor: pointer;
+}
+
+#players ol .sussuros-peer-connected {
+  color: orange;
+}
+
+#players ol .sussuros-stream-connected {
+  color: green;
+}
+
+#players ol .sussuros-stream-receiving {
+  color: yellow;
+}
+
+#players ol .sussuros-stream-broadcasting {
+  color: greenyellow;
+}

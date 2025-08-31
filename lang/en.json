@@ -1,0 +1,9 @@
+{
+  "SUSSURROS.captureErrorAudio": "Unable to capture from your Audio device",
+  "SUSSURROS.debug": "Enable debug logging",
+  "SUSSURROS.debugHint": "Enables debug and info logging levels",
+  "SUSSURROS.disableAvClient": "Disable AV client microphone",
+  "SUSSURROS.disableAvClientHint": "If you are using another AV client such as the Jitsi WebRTC module, automatically disable your AV microphone when sending a message with Sussuros. Ignored when using \"Toggle sending audio\"",
+  "SUSSURROS.toggleBroadcast": "Toggle sending audio",
+  "SUSSURROS.toggleBroadcastHint": "Toggle the sending of audio to users instead of requiring that the microphone button be held down"
+}

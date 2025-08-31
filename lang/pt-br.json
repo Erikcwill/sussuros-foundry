@@ -1,0 +1,11 @@
+{
+  "I18N.LANGUAGE": "Português (Brasil)",
+  "I18N.MAINTAINERS": "Erikcwill",
+  "SUSSURROS.captureErrorAudio": "Não foi possível capturar seu dispositivo de áudio",
+  "SUSSURROS.debug": "Ativar registro de depuração",
+  "SUSSURROS.debugHint": "Ativa os níveis de logs de depuração e informações",
+  "SUSSURROS.disableAvClient": "Desativar microfone do cliente AV",
+  "SUSSURROS.disableAvClientHint": "Se estiver usando outro cliente AV, como o módulo Jitsi WebRTC, desative automaticamente seu microfone AV ao enviar uma mensagem com Sussuros. Ignorado quando estiver usando \"Alternar envio de áudio\"",
+  "SUSSURROS.toggleBroadcast": "Alternar envio de áudio",
+  "SUSSURROS.toggleBroadcastHint": "Alterna o envio de áudio para os usuários em vez de exigir que o botão do microfone seja mantido pressionado"
+}

@@ -1,0 +1,11 @@
+{
+  "I18N.LANGUAGE": "Español",
+  "I18N.MAINTAINERS": "@Viriato139ac#0342",
+  "SUSSURROS.captureErrorAudio": "No se ha podido conectar con el dispositivo de audio",
+  "SUSSURROS.debug": "Activar registro de errores",
+  "SUSSURROS.debugHint": "Activa el nivel de registro de errores e información",
+  "SUSSURROS.disableAvClient": "Desactivar micrófono cliente AV",
+  "SUSSURROS.disableAvClientHint": "Si está usando otro cliente de AV como el módulo Jitsi WebRTC, desactiva automáticamente su micrófono AV cuando se envía un mensaje con Sussuros. Esta opción se ignorará si se usa \"Conmutar envío de audio\"",
+  "SUSSURROS.toggleBroadcast": "Conmutar envío de audio",
+  "SUSSURROS.toggleBroadcastHint": "Conmuta el envío de audio a los usuarios en lugar de requerir que se presione el botón del micrófono"
+}
