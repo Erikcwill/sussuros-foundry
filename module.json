@@ -1,0 +1,42 @@
+{
+  "name": "sussuros",
+  "title": "Sussuros",
+  "id": "sussuros",
+  "type": "module",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "ChatGPT",
+      "email": ""
+    }
+  ],
+  "description": "Comunicação privada por áudio entre indivíduos usando push‑to‑talk, atualizada para Foundry VTT v13.",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": [
+    "src/sussuros.js"
+  ],
+  "styles": [
+    "styles/sussuros.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    },
+    {
+      "lang": "pt-br",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-br.json"
+    }
+  ],
+  "socket": true
+}
